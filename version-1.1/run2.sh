@@ -1,0 +1,1 @@
+/usr/java/latest/bin/java -Xmx5000m -Djava.library.path=/home/ashishjain/indri-bolt/swig/obj/java -cp /home/ashishjain/indri-bolt/swig/obj/java/indri.jar:lib/kstem-3.4.jar:lib/ark-tweet-nlp-0.3.2.jar:dist/myproject.jar  ciir.umass.edu.qproc.POSTagger
